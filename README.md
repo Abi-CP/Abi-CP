@@ -19,19 +19,19 @@ Here are some ideas to get you started:
 ## About Me
 
 - **Name:** Abishek CP
-**Age:** 20 years old
-**Skills:** Frontend development, 
-**Languages:** HTML, CSS, JavaScript, C, Java
-**Interests:** I have a strong passion for learning and exploring various domains, including but not limited to frontend development.
+- **Age:** 20 years old
+- **Skills:** Frontend development, 
+- **Languages:** HTML, CSS, JavaScript, C, Java
+- **Interests:** I have a strong passion for learning and exploring various domains, including but not limited to frontend development.
 
 ## Contact
 
 I'm always open to discussions, feedback, and collaboration. You can reach out to me through the following channels:
 
-**Website:** [abi-cp.in](https://abi-cp.in)
-**GitHub:** [My GitHub Profile](https://github.com/Abi-CP)
-**Email:** [mail@abi-cp.in](mailto:mail@abi-cp.in)
-**LinkedIn:** [abishek-c-p](https://www.linkedin.com/in/abishek-c-p)
+- **Website:** [abi-cp.in](https://abi-cp.in)
+- **GitHub:** [My GitHub Profile](https://github.com/Abi-CP)
+- **Email:** [mail@abi-cp.in](mailto:mail@abi-cp.in)
+- **LinkedIn:** [abishek-c-p](https://www.linkedin.com/in/abishek-c-p)
 
 Feel free to connect with me, share your thoughts, and let's make the world of technology and development a better place together!
 
