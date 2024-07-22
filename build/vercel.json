@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    { "source": "/about", "destination": "/dist/$1" },
+    { "source": "/projects", "destination": "/dist/$1" },
+    
+    { "source": "/(.*)", "destination": "/dist/$1" }
+  ],
+  "cleanUrls": true
+}
